@@ -13,4 +13,4 @@ Currently learning Python, SQL, C, Java & Data Structures.
 
 Planning to work on small projects.
 
-love to learn and adapt to new things.
+Open to internship opportunities and real-world projects.
