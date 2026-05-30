@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**fouziyask09/fouziyask09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning.Building.Improving.
 
-Here are some ideas to get you started:
+I’m Fouziya, an engineering student excited to explore the tech world.
+Curious about tech and focused on building skills.
+I always improve by learning step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills (learning)
+Currently learning Python, SQL, C, Java & Data Structures.
+
+Planning to work on small projects.
+
+love to learn and adapt to new things
